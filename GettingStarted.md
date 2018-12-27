@@ -44,3 +44,11 @@ pygame
 # Sense Hat
 * SenseHat Emulator [download instructions](https://sense-emu.readthedocs.io/en/v1.0/install.html)
 
+# Installations
+
+'''
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install firefox-esr
+# https://www.realvnc.com/en/connect/docs/raspberry-pi.html
+sudo apt-get install realvnc-vnc-server
