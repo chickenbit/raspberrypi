@@ -8,3 +8,6 @@
 * pixel
 * showcase * 
 * simple
+* tronkyfran
+* tv
+* zoid
