@@ -1,2 +1,2 @@
-sudo apt-get install tux-type
-sudo apt-get install tux-paint
+sudo apt-get install tuxtype
+sudo apt-get install tuxpaint
