@@ -50,5 +50,13 @@ pygame
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install firefox-esr
-# https://www.realvnc.com/en/connect/docs/raspberry-pi.html
+// https://www.realvnc.com/en/connect/docs/raspberry-pi.html
 sudo apt-get install realvnc-vnc-server
+
+# Commands
+
+```
+apt-cache search keyword
+```
+
+
